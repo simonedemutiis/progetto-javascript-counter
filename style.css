@@ -1,0 +1,31 @@
+body {
+  background-color: #0606cc;
+  font-family: "DotGothic16", sans-serif;
+  color: #6cacc5;
+  text-align: center;
+  padding: 50px;
+}
+
+.countDisplay {
+  margin: 200px;
+  font-size: 20px;
+}
+button {
+  background: rgba(42, 50, 113, 0.28);
+  border: 2px solid #6cacc5;
+  color: inherit;
+  font-family: inherit;
+  padding: 5px 10px;
+  font-size: 17px;
+  margin-right: 10px;
+}
+
+button:hover {
+  background: #0ddd0d;
+}
+
+.box {
+  padding: 50px;
+  background-color: #00006d;
+  border: 5px solid red;
+}
