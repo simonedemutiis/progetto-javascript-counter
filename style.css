@@ -23,6 +23,9 @@ button {
 button:hover {
   background: #0ddd0d;
 }
+#decremento:hover {
+  background: red;
+}
 
 .box {
   padding: 50px;
