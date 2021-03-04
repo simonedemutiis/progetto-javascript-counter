@@ -32,3 +32,11 @@ button:hover {
   background-color: #00006d;
   border: 5px solid red;
 }
+
+#robot {
+  width: 200px;
+  height: auto;
+  position: absolute;
+  left: 600px;
+  top: 133px;
+}
